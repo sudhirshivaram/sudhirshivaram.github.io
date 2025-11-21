@@ -883,6 +883,16 @@
             // Add timestamp
             const now = new Date();
             const timestamp = now.toLocaleString();
+            // Add this RIGHT BEFORE emailjs.sendForm()
+            console.log('=== FORM DEBUG ===');
+            console.log('from_name:', form.from_name.value);
+            console.log('from_email:', form.from_email.value);
+            console.log('subject:', form.subject.value);
+            console.log('message:', form.message.value);
+            console.log('sent_time:', form.sent_time.value);
+            console.log('=================');
+
+
 
             // Send email using EmailJS
             emailjs.sendForm('service_mhycbmt', 'template_ybz7oei', form)
