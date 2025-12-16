@@ -165,7 +165,7 @@ _Screenshot: Dual RAG system querying arXiv papers and SEC financial filings_
 ### **Project: Energy Consumption Forecasting - Building Heating Load Prediction**
 
 **Live Demo:**
-🔗 **HuggingFace Space:** [https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting](https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting)
+🔗 **HuggingFace Space:** [https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting](https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting) 
 🔗 **GitHub Repository:** [https://github.com/sudhirshivaram/energy-consumption-forecasting](https://github.com/sudhirshivaram/energy-consumption-forecasting)
 
 **Tech Stack:** Python, scikit-learn, Gradio, Plotly, Docker, HuggingFace Spaces
