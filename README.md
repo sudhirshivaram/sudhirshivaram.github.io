@@ -44,12 +44,14 @@ ML/AI Engineer with **12+ years in full‑stack Java engineering** and proven ex
 **June 2025 – Present**  
 **Tech Stack:** Java (JDK 17), Spring, Power BI, REST API, Azure, OpenShift, Docker, SQL  
 
-- Engineered a workaround for Power BI REST API limitations by converting Excel responses to CSV via HTTPEntity  
-- Optimized report generation for 1,000+ account IDs, reducing latency and improving scalability  
-- Shifted sensitive data processing to server‑side, strengthening application security  
-- Migrated legacy Java apps to **Azure Cloud** with OpenShift containers  
-- Led L3 production triage, coordinating cross‑functional teams to resolve incidents within SLA  
-- Partnered with business stakeholders for transparent issue remediation and improved trust  
+- Engineered scalable backend services for data-intensive reporting workflows, enabling reliable ingestion, transformation, and delivery of large datasets for analytics and AI use cases.
+- Designed a server-side data processing solution to overcome Power BI REST API limitations by transforming Excel-based responses into structured CSV formats, improving data accessibility and pipeline reliability.
+- Optimized backend logic to process high-volume datasets (1,000+ account IDs, extended date ranges), significantly improving performance and throughput under production workloads.
+- Refactored frontend and backend components to move sensitive data processing from client-side to server-side, improving data security, governance, and compliance.
+- Contributed to cloud migration initiatives by transitioning legacy Java applications to Azure-based infrastructure, leveraging containerized deployments on OpenShift.
+- Led L3 production support for critical data services, performing root-cause analysis and ensuring high availability and SLA compliance.
+- Collaborated with business stakeholders to translate reporting and data issues into technical solutions, enabling faster iteration on data-driven features.
+- Designed scalable data pipelines supporting ML model training and inference workflows.  
 
 ---
 
@@ -112,10 +114,10 @@ _Screenshot: Interactive AI tutor with query expansion, hybrid search, and reran
 
 ---
 
-### **Project: arXiv Paper Curator + Financial Documents RAG — Production AI Research Assistant**
+### **Project: AI-Powered Research And Financial Documents Curator (RAG System)**
 
 **Live Demo:**  
-🔗 **Frontend:** [https://your-app.streamlit.app](https://your-app.streamlit.app) _(Deploy tomorrow)_  
+🔗 **Frontend:** [Streamlit](https://arxiv-paper-curator-v1-demo.streamlit.app/)) 
 🔗 **Backend API:** [https://arxiv-paper-curator-v1-production.up.railway.app/docs](https://arxiv-paper-curator-v1-production.up.railway.app/docs)  
 
 **Tech Stack:** Python, FastAPI, Railway, OpenSearch, PostgreSQL, Streamlit, Google Gemini, Anthropic Claude, OpenAI, Jina AI Embeddings
