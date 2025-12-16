@@ -122,7 +122,7 @@ _Screenshot: Interactive AI tutor with query expansion, hybrid search, and reran
 
 ---
 
-![RAG System Demo](./screenshots/rag-demo.png)
+![RAG System Demo](../screenshots/rag-demo.png)
 _Screenshot: Dual RAG system querying arXiv papers and SEC financial filings_
 
 ---
