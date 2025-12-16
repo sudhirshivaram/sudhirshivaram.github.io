@@ -156,7 +156,7 @@ _Screenshot: Dual RAG system querying arXiv papers and SEC financial filings_
 ---
 
 **🔗 Links:**
-- **Try it live:** [Streamlit Demo]([https://your-app.streamlit.app](https://arxiv-paper-curator-v1-demo.streamlit.app/)
+- **Try it live:** [Streamlit Demo](https://arxiv-paper-curator-v1-demo.streamlit.app/)
 - **API Docs:** [FastAPI Swagger](https://arxiv-paper-curator-v1-production.up.railway.app/docs)
 - **Source Code:** [GitHub Repository](https://github.com/sudhirshivaram/arxiv-paper-curator-v1)
 
