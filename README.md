@@ -60,7 +60,7 @@ ML/AI Engineer with **12+ years in full‑stack Java engineering** and proven ex
 
 **Live Demo:**  
 🔗 **HuggingFace Space:** [https://huggingface.co/spaces/sudhirshivaram/powergrid-ai-tutor](https://huggingface.co/spaces/sudhirshivaram/powergrid-ai-tutor)  
-🔗 **GitHub Repository:** [https://github.com/sushiva/powergrid-ai-tutor](https://github.com/sushiva/powergrid-ai-tutor)
+🔗 **GitHub Repository:** [https://github.com/sudhirshivaram/powergrid-ai-tutor](https://github.com/sudhirshivaram/powergrid-ai-tutor)
 
 **Tech Stack:** Python, LlamaIndex, FAISS, Gradio, Google Gemini, OpenAI GPT-4, Cohere Rerank, BM25, arXiv API
 
@@ -107,8 +107,8 @@ _Screenshot: Interactive AI tutor with query expansion, hybrid search, and reran
 
 **🔗 Links:**
 - **Try it live:** [HuggingFace Demo](https://huggingface.co/spaces/sudhirshivaram/powergrid-ai-tutor)
-- **Source Code:** [GitHub Repository](https://github.com/sushiva/powergrid-ai-tutor)
-- **Documentation:** [Architecture & Implementation Details](https://github.com/sushiva/powergrid-ai-tutor/tree/main/docs)
+- **Source Code:** [GitHub Repository](https://github.com/sudhirshivaram/powergrid-ai-tutor)
+- **Documentation:** [Architecture & Implementation Details](https://github.com/sudhirshivaram/powergrid-ai-tutor/tree/main/docs)
 
 ---
 
@@ -203,11 +203,11 @@ _Screenshot: Interactive ML dashboard with real-time predictions and visual ener
 
 # 🎓 Academic Projects
 
-> [**View Full Academic Portfolio →**](https://github.com/sushiva/academic-projects)
+> [**View Full Academic Portfolio →**](https://github.com/sudhirshivaram/academic-projects)
 
-- 🏗️ **[Safety Helmet Detection](https://github.com/sushiva/academic-projects/tree/main/academic/safety-helmet-detection)** — Binary image classification with ResNet18 transfer learning achieving 100% accuracy. Systematic 4-model comparison showing transfer learning achieves perfect accuracy with 20,000× fewer parameters than training from scratch.
+- 🏗️ **[Safety Helmet Detection](https://github.com/sudhirshivaram/academic-projects/tree/main/academic/safety-helmet-detection)** — Binary image classification with ResNet18 transfer learning achieving 100% accuracy. Systematic 4-model comparison showing transfer learning achieves perfect accuracy with 20,000× fewer parameters than training from scratch.
 
-- 🦠 **[COVID-19 X-Ray Classification](https://github.com/sushiva/covid-xray-detection)** — Multi-class chest X-ray classification (COVID-19, Viral Pneumonia, Normal) achieving 88.46% accuracy. Comparative study of 4 preprocessing techniques (RGB, Grayscale, Blur, Laplacian) showing RGB outperforms by 27-42%.  
+- 🦠 **[COVID-19 X-Ray Classification](https://github.com/sudhirshivaram/covid-xray-detection)** — Multi-class chest X-ray classification (COVID-19, Viral Pneumonia, Normal) achieving 88.46% accuracy. Comparative study of 4 preprocessing techniques (RGB, Grayscale, Blur, Laplacian) showing RGB outperforms by 27-42%.  
 
 ---
 
