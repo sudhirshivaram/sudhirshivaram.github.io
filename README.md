@@ -117,7 +117,7 @@ _Screenshot: Interactive AI tutor with query expansion, hybrid search, and reran
 ### **Project: AI-Powered Research And Financial Documents Curator (RAG System)**
 
 **Live Demo:**  
-🔗 **Frontend:** [[https://arxiv-paper-curator-v1-demo.streamlit.app/](https://arxiv-paper-curator-v1-demo.streamlit.app/)) 
+🔗 **Frontend:** [https://arxiv-paper-curator-v1-demo.streamlit.app/](https://arxiv-paper-curator-v1-demo.streamlit.app/)
 🔗 **Backend API:** [https://arxiv-paper-curator-v1-production.up.railway.app/docs](https://arxiv-paper-curator-v1-production.up.railway.app/docs)  
 
 **Tech Stack:** Python, FastAPI, Railway, OpenSearch, PostgreSQL, Streamlit, Google Gemini, Anthropic Claude, OpenAI, Jina AI Embeddings
@@ -156,7 +156,7 @@ _Screenshot: Dual RAG system querying arXiv papers and SEC financial filings_
 ---
 
 **🔗 Links:**
-- **Try it live:** [Streamlit Demo](https://your-app.streamlit.app) _(coming tomorrow)_
+- **Try it live:** [Streamlit Demo]([https://your-app.streamlit.app](https://arxiv-paper-curator-v1-demo.streamlit.app/)
 - **API Docs:** [FastAPI Swagger](https://arxiv-paper-curator-v1-production.up.railway.app/docs)
 - **Source Code:** [GitHub Repository](https://github.com/sudhirshivaram/arxiv-paper-curator-v1)
 
