@@ -160,14 +160,44 @@ _Screenshot: Dual RAG system querying arXiv papers and SEC financial filings_
 
 ---
 
-### **Project: Energy Consumption Forecasting System**  
-**Tech Stack:** Python, XGBoost, SHAP, scikit‑learn, Streamlit, Docker, HuggingFace Spaces  
+### **Project: Energy Consumption Forecasting - Building Heating Load Prediction**
 
-- Achieved **99.82% R²** and **0.42% MAPE** using XGBoost on 19,735 records  
-- Engineered 15+ time‑series features, boosting accuracy by **35%**  
-- Applied SHAP for interpretability, revealing key consumption drivers  
-- Deployed full ML pipeline with evaluation metrics (RMSE, MAE, MAPE)  
-- Built real‑time prediction dashboard on HuggingFace Spaces  
+**Live Demo:**
+🔗 **HuggingFace Space:** [https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting](https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting)
+🔗 **GitHub Repository:** [https://github.com/sudhirshivaram/energy-consumption-forecasting](https://github.com/sudhirshivaram/energy-consumption-forecasting)
+
+**Tech Stack:** Python, scikit-learn, Gradio, Plotly, Docker, HuggingFace Spaces
+
+---
+
+[![Live Demo](energy-consumption-forecast.png)](https://huggingface.co/spaces/sudhirshivaram/energy-consumption-forecasting)
+_Screenshot: Interactive ML dashboard with real-time predictions and visual energy gauges_
+
+---
+
+#### **Key Achievements:**
+
+- **Production-Ready System:** Built ML system achieving **96% R² (0.964)** using LinearRegression with StandardScaler pipeline
+- **Critical Bug Discovery:** Discovered and fixed deployment bug where predictions were off by 4,580% due to missing preprocessing pipeline
+- **Interactive Dashboard:** Deployed Gradio dashboard with real-time predictions and visual gauges (green/yellow/red energy zones)
+- **Clean Implementation:** Implemented sklearn Pipeline to ensure preprocessing consistency between training and production
+- **Optimized UI:** Live auto-updates as sliders move - everything fits on one screen without scrolling
+
+#### **Technical Implementation:**
+
+- **Model:** LinearRegression + StandardScaler pipeline with comprehensive SHAP analysis
+- **Performance:** RMSE: 1.94 kWh | MAE: 1.49 kWh | MAPE: 6.3%
+- **Dataset:** UCI Energy Efficiency (768 building simulations, 9 architectural features)
+- **Frontend:** Gradio UI with Plotly visualizations, circular gauges, and tabbed interface
+- **Deployment:** HuggingFace Spaces with live demo and complete documentation
+
+#### **Impact & Metrics:**
+
+- **Model Accuracy:** 96.4% R² on test data
+- **Feature Importance:** Cooling load dominates (6.87), followed by height (2.08) and glazing area (1.26)
+- **User Experience:** Visual energy zones, live predictions, detailed feature analysis
+- **Production Reliability:** sklearn Pipeline prevents preprocessing mismatches
+- **Documentation:** 1,444+ lines of comprehensive guides and analysis  
 
 ---
 
