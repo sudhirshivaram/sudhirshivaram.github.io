@@ -217,4 +217,4 @@ _Screenshot: Interactive ML dashboard with real-time predictions and visual ener
 # 🤝 Connect With Me
 - **GitHub:** [SudhirShivaram](https://github.com/SudhirShivaram)  
 - **LinkedIn:** [linkedin.com/in/sudhirshivaram](https://linkedin.com/in/sudhirshivaram)  
-- **Email:** sudhir.shivaram@email.com  
+- **Email:** shivaram.sudhir@gmail.com  
