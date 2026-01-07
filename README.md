@@ -44,14 +44,13 @@ ML/AI Engineer with **12+ years in full‑stack Java engineering** and proven ex
 **June 2025 – Present**  
 **Tech Stack:** Java (JDK 17), Spring, Power BI, REST API, Azure, OpenShift, Docker, SQL  
 
-- Engineered scalable backend services for data-intensive reporting workflows, enabling reliable ingestion, transformation, and delivery of large datasets for analytics and AI use cases.
-- Designed a server-side data processing solution to overcome Power BI REST API limitations by transforming Excel-based responses into structured CSV formats, improving data accessibility and pipeline reliability.
-- Optimized backend logic to process high-volume datasets (1,000+ account IDs, extended date ranges), significantly improving performance and throughput under production workloads.
-- Refactored frontend and backend components to move sensitive data processing from client-side to server-side, improving data security, governance, and compliance.
-- Contributed to cloud migration initiatives by transitioning legacy Java applications to Azure-based infrastructure, leveraging containerized deployments on OpenShift.
-- Led L3 production support for critical data services, performing root-cause analysis and ensuring high availability and SLA compliance.
-- Collaborated with business stakeholders to translate reporting and data issues into technical solutions, enabling faster iteration on data-driven features.
-- Designed scalable data pipelines supporting ML model training and inference workflows.  
+- Modernized a legacy analytics platform by migrating MicroStrategy (MSTR) reporting to Power BI on Azure with OpenShift, containerized Java services, and CI/CD automation, establishing a cloud-ready, scalable, and secure foundation for future - AI/ML workflows while supporting faster release cycles and reduced BI licensing costs.
+- Remediated a Very High severity IDOR vulnerability flagged by Veracode by implementing server-side authorization and validating report identifiers to prevent unauthorized access, safeguarding customer financial portfolios and ensuring compliance with data protection standards.
+- Remediated a Very High severity Veracode finding by moving sensitive financial data processing from client-side to server-side, enforcing secure access controls, eliminating data exposure in network traffic, and ensuring compliance with data privacy regulations, strengthening the platform’s foundation for secure AI/ML workflows.
+- Built reusable Java framework to parse PowerBI API responses and generate CSV output after vendor confirmed CSV export as a known issue. Generic design supports multiple report types through configuration, enabling rapid CSV delivery for new report requirements without custom development.
+- Optimized backend data retrieval logic to handle high-volume datasets (10,000+ account IDs across extended date ranges), improving report generation performance and reliability under production workloads.
+- Provided L3 production support for financial reporting services, performing root-cause analysis on data pipeline failures and maintaining 99.9% uptime SLA for client-facing report generation.
+ 
 
 ---
 
